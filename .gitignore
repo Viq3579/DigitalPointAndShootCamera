@@ -1,0 +1,25 @@
+# STM32CubeIDE / Eclipse project
+MX_*/
+*.launch
+
+# STM32 auto-generated code artifacts
+Debug/
+Release/
+build/
+*.mxproject
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.list
+*.log
+
+# IDE-specific
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
